@@ -1,1 +1,0 @@
-x = -0.95461, f(x) = -0.02722, number of iterations = 1
